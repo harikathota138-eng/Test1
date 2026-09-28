@@ -1,0 +1,6 @@
+{
+  "name": "TripWise AI",
+  "description": "Modern AI-powered trip planner that analyzes budget feasibility, crafts detailed day-wise itineraries, recommends local gems and smart alternatives, splits expenses, and features a friendly travel assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
